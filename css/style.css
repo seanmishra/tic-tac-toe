@@ -1,0 +1,26 @@
+body {
+  background-color: #333;
+}
+
+main {
+  width: 600px;
+  min-height: 500px;
+  padding: 30px;
+  margin: 30px auto;
+  background-color: #111;
+  color: #666;
+  box-shadow: 0 0 10px 1px #666;
+}
+
+table {
+  margin: 30px auto;
+}
+
+td {
+  border: 3px solid #666;
+  width: 100px;
+  height: 100px;
+  font-size: 3em;
+  text-align: center;
+  text-transform: uppercase;
+}
