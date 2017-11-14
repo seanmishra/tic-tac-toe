@@ -3,16 +3,11 @@
     "description": "A simple Tic-tac-toe game built with JS",
     "authors": [
         {
-            "name": "Sean Mishra",
+            "name": "Santak Mishra (Sean)",
             "email": "santakmishra@outlook.com"
         }
     ],
     "require-dev": {
 		"heroku/heroku-buildpack-php": "*"
-	},
-	"scripts": {
-		"compile": [
-			"bower install"
-		]
-    }
+	}
 }
