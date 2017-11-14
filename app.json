@@ -1,0 +1,12 @@
+{
+    "name": "tic-tac-toe",
+    "success_url": "/",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "heroku/php"
+        }
+    ]
+}
