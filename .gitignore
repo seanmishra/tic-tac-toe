@@ -2,3 +2,5 @@
 .sass-cache/
 *.css.map
 components/
+
+/vendor/
